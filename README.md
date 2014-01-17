@@ -2,8 +2,8 @@
 
 <u><b>Background</b></u>
 <br />
-Applications to improve student-faculty workflow and administrative
-efficiency in the Harvard University course system.  
+Applications to improve student-faculty workflow, administrative
+efficiency.  
 <br /><br />
 <b><u>Projects</u></b>
 	<ul>
