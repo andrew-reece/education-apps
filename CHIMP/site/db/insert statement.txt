@@ -1,0 +1,31 @@
+INSERT INTO study_consentforms (id, control, purpose, what_you_do, session1, session2, session3, time_required, risks, benefits, confidentiality, participation, contact_researcher, contact_concerns, agreement) VALUES ('3', '2', 'To find underlying markers of creativity.', 
+'You will complete one questionnaire on demographic variables, handedness, musical background, and a test on cognitive functioning, emotion handling, creativity, and personality. ', 
+'You will complete questions about your demographics, musical background, hand preference. You may skip any questions you do not want to answer. You will then be asked to complete questions on level of mindfulness, personality, and health to complete a creativity task, an emotion recognition tasks, and a cognition task on the computer. This session will take approximately three hours. You will be asked to create a product which you have to hand in by the proposed deadline. After six weeks, you will return to the website for the second session.', 
+'You will complete questions about your demographics, musical background, hand preference. You may skip any questions you do not want to answer. You will then be asked to complete questions on level of mindfulness, personality, and health to complete a creativity task, an emotion recognition tasks, and a cognition task on the computer. This session will take approximately three hours. You will be asked to create a product which you have to hand in by the proposed deadline. After four months, you will return to the website for the third session.', 
+'You will complete questions about your demographics, musical background, hand preference. You may skip any questions you do not want to answer. You will then be asked to complete questions on level of mindfulness, personality, and health to complete a creativity task, an emotion recognition tasks, and a cognition task on the computer. This session will take approximately three hours. You will be asked to create a product which you have to hand in by the proposed deadline.',
+ 'Participation in the entire study will take approximately 15 hours to complete.', 
+ 'There are no anticipated risks associated with participating in this study.', 
+ 'At the end of the study, we will provide a thorough explanation of the study and of our hypotheses.  We will describe the potential implications of the results of the study both if our hypotheses are supported and if they are disconfirmed.  If you wish, you can send an email message to Dr. Chiara Haller (haller@wjh.harvard.edu) and we will send you summaries of the overall study results. You will get immediate feedback about your personality and thinking style after the first participation. You will get overall, individual feedback on your creativity, and related variables by the end of the experiment. Furthermore, the best products will be exhibited on a specially-created internet platform.', 
+ 'Your participation in this study will remain confidential, and your identity will not be stored with your data.  Your responses will be assigned a random numerical code number, which will be the only identifying mark on all of the data-gathering items in this study.  There will be no \"key\" or master-list linking participants\' name to their number or to any of the data-gathering materials. All data-gathering items will be stored in a locked file cabinet.  In keeping with the American Psychological Association\'s ethics committee rules and procedures, all data-gathering items will be securely destroyed five years after the end of the study.', 'Your participation in this study is completely voluntary, and you may withdraw at any time by simply closing your web browser.  You may skip any questions you do not want to complete (no questions will be asked).', 'If you have questions about this research, please contact:<br />
+<div class="consent_contact_researcher_left">
+Chiara S. Haller, Ph.D <br />
+William James Hall #1350<br />
+33 Kirkland Street<br />
+Cambridge, MA 02138<br />
+Phone: 857-207-7783<br />
+haller@wjh.harvard.edu
+</div>
+<div class="consent_contact_researcher_right">
+Ellen Langer, Ph.D.<br />
+William James Hall #1330<br />
+33 Kirkland Street<br />
+Cambridge, MA 02138<br />
+Phone: 617-495-3860<br />
+langer@wjh.harvard.edu </div>','Jane Calhoun
+<br />
+Harvard University Committee on the Use of Human Subjects in Research <br />
+1414 Massachusetts Avenue <br />
+Room 234, <br />
+Cambridge, MA 02138<br />
+Phone: 617-495-5459<br />
+E-mail: jcalhoun@fas.harvard.edu','The nature and purpose of this research have been sufficiently explained and I agree to participate in this study.  I understand that I am free to withdraw at any time without incurring any penalty. Please click the button at the bottom left to state that you have read the consent information and agree to participate in this study.')

@@ -1,0 +1,152 @@
+<html>
+<head>
+	<title>Chiara Haller Institute of Mind & Personality (CHIMP) - Demographic Survey</title>
+	
+	<script type="text/javascript" src="js/reveal.js"></script>
+</head>
+
+<body>
+<h2>Chiara Haller Institute of Mind & Personality (CHIMP)</h2>
+<hr>
+<h3>Registration Form</h3>
+<br />
+<form name="register" action="register.php" method="POST">
+
+Username: <input id="userid" type="text" size="15" maxlength="12"> (max. 12 characters)
+<br />
+Email Address: <input id="email" type="text" size="35">
+<br />
+Confirm Email Address: <input id="email_confirm" type="text" size="35">
+<br /><br />
+Date of Birth: <input id="mm" type="text" size="2" maxlength="2">/<input id="dd" type="text" size="2" maxlength="2">/<input id="yyyy" type="text" size="2" maxlength="2"> (MM/DD/YYYY)
+<br /><br />
+Sex (Check one):
+<input name="gender" type="radio" value="f"> Female		<input name="gender" type="radio" value="m"> Male
+<br /><br />
+Race (Check one):<br />
+<input name="race" type="radio" value="am-indian"> American Indian or Alaska Native<br />
+<input name="race" type="radio" value="asian"> Asian<br />
+<input name="race" type="radio" value="am-asian"> Asian American<br />
+<input name="race" type="radio" value="black"> Black or African American<br />
+<input name="race" type="radio" value="pac-isl"> Native Hawaiian or Other Pacific Islander<br />
+<input name="race" type="radio" value="white"> Caucasian <br />
+<input name="race" type="radio" value="other"> Other: <input id="other_race" type="text" size="15">
+<br /><br />
+Hand preference (Check one):
+<br />
+<input name="hand" type="radio" value="l"> Left	<input name="hand" type="radio" value="r"> Right
+<br /><br />
+Do you play any musical instruments? If yes, please state which ones, separating multiple instruments with commas (ex. "Saxophone, Guitar, Piano"):
+<br />
+<textarea name="instruments" rows="3" cols="50">
+</textarea>
+<br /><br />
+What is your profession?
+<br />
+<textarea name="profession" rows="3" cols="50">
+</textarea>
+<br /><br />
+I am primarily: 
+<select name="educational_position" onchange="revealEdInfo(this);">
+	<option value="0" selected>Please choose one: </option>
+	<option value="1">a student </option>
+	<option value="2">an educator</option>
+	<option value="0">neither a student nor an educator</option>
+</select>
+<br /><br />
+<div id="edinfo" style="visibility:hidden;display:none;">
+
+	<div id="degree_text"></div> 
+	
+<select name="edinfo_degrees">
+	<option value="h" selected>High school</option>
+	<option value="a">Associate</option>
+	<option value="b">Bachelor</option>
+	<option value="m">Master</option>
+	<option value="d">Doctoral</option>
+</select>
+
+<br /><br />
+
+	<div id="major_text"></div>
+	
+<select name="edinfo_major">
+         <option value=-1 selected>Select an area of study</option>
+         
+            <option value=2>Agricultural Sciences</option> 
+         
+            <option value=3>Anthropology</option> 
+         
+            <option value=4>Architecture and Environmental Design</option> 
+         
+            <option value=5>Art and Design</option> 
+         
+            <option value=6>Biological Sciences</option> 
+         
+            <option value=7>Business and Economics</option> 
+         
+            <option value=8>Chemistry</option> 
+         
+            <option value=9>Communications</option> 
+         
+            <option value=10>Computer Science</option> 
+         
+            <option value=29>Culture and Society</option> 
+         
+            <option value=12>Engineering</option> 
+         
+            <option value=30>Environmental Studies and Sciences</option> 
+         
+            <option value=33>Health and Physical Education</option> 
+         
+            <option value=14>History</option> 
+         
+            <option value=27>Humanities</option> 
+         
+            <option value=24>Languages and Literature</option> 
+         
+            <option value=17>Mathematics</option> 
+         
+            <option value=18>Media/Film and Television</option> 
+         
+            <option value=19>Performing Arts</option> 
+         
+            <option value=20>Philosophy</option> 
+         
+            <option value=21>Physical Sciences</option> 
+         
+            <option value=25>Physics</option> 
+         
+            <option value=26>Political Science</option> 
+         
+            <option value=22>Psychology</option> 
+         
+            <option value=23>Sociology and Social Sciences</option> 
+         
+            <option value=32>Teacher Education</option> 
+         
+            <option value=1>Undeclared</option> 
+			
+			<option value=0>Other/Not listed</option>
+         
+      </select>
+</div>
+
+<br /><br />
+What is the highest level of education you have completed?
+<br />
+
+<select name="degrees">
+	<option value="h" selected>High school diploma </option>
+	<option value="a">Associate's Degree</option>
+	<option value="b">Bachelor's Degree </option>
+	<option value="m">Master's Degree </option>
+	<option value="d">Doctoral Degree </option>
+</select>
+
+<br /><br />
+
+<input type="submit" value="Click to Register">
+</form>
+</body>
+</html>

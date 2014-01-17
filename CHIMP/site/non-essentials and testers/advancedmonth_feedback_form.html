@@ -1,0 +1,124 @@
+<html>
+<head>
+<script src="zohoscript.js" type="text/javascript"></script>
+<script src="http://creator.zoho.com/agamayoga/form/json/146/" type="text/javascript"></script>
+
+<link href="feedback.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+// GETS USER INFO FROM EMAIL LINK QUERY STRING (NAME AND EMAIL)
+
+var userName;
+
+function getURLparameters(name) 
+{
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results == null )
+    return "Agama Yogi";
+  else
+    return results[1];
+}
+
+userName = getURLparameters("username");
+</script>
+
+<title>
+AGAMA YOGA STUDENT FEEDBACK FORM: 2nd Month & Up
+</title>
+</head>
+
+<body bgcolor="#6699CC">
+<img src="agama_webheader.jpg" width="100%"></img>
+<br />
+<br />
+<span id="subheader">AGAMA YOGA STUDENT FEEDBACK FORM: 2nd Month & Up</span>
+
+
+	<br /><br />
+<span class="gold">	Welcome, <script type="text/javascript">document.write(userName);</script>!
+	<br /><br />
+	
+	Agama Yoga is committed to continually growing and evolving in positive ways.  Your feedback will help greatly to maintain a high standard for the quality of the teachings, classes, and overall experience offered at our school.  Please fill out the form as thoroughly as possible; you may of course choose to remain anonymous, but be assured that your personal information will not be shared in any way with your teachers or classmates.
+	</span>
+
+<form linkid="146" user="agamayoga" class="Zoho-form" nexturl="http://creator.zoho.com/agamayoga/agama-yoga-data-collection/view/8/" onsubmit='Zoho.submit(this); return false;'>
+
+<!--
+
+ALL THIS SHOULD BE RECORDED IN A SEPARATE DATABASE 
+IF WE NEED TO WE CAN RUN IT HERE FOR A BIT
+
+<script type="text/javascript">Zoho.writeLabel("Name");</script>
+<script type="text/javascript">Zoho.writeInput("Name");</script><br />
+<br />
+
+<script type="text/javascript">Zoho.writeLabel("email");</script>
+<script type="text/javascript">Zoho.writeInput("email");</script>
+
+<script type="text/javascript">Zoho.writeLabel("starsign");</script>
+<script type="text/javascript">Zoho.writeInput("starsign");</script>
+
+<script type="text/javascript">Zoho.writeLabel("birthdate");</script>
+<script type="text/javascript">Zoho.writeInput("birthdate");</script>
+-->
+
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("month");</script>
+<script type="text/javascript">Zoho.writeInput("month");</script>
+&nbsp;&nbsp;
+<script type="text/javascript">Zoho.writeLabel("teachername");</script>
+<script type="text/javascript">Zoho.writeInput("teachername");</script>
+<br />
+<br />
+
+***** <span id="subheader">GENERAL FEEDBACK </span> ***** <br /><br />
+
+<script type="text/javascript">Zoho.writeLabel("best_elements");</script><br />
+<script type="text/javascript">Zoho.writeInput("best_elements");</script>
+
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("things_to_improve");</script><br />
+<script type="text/javascript">Zoho.writeInput("things_to_improve");</script>
+<br /><br />
+
+<script type="text/javascript">Zoho.writeLabel("quality_of_teachings");</script><br />
+<script type="text/javascript">Zoho.writeInput("quality_of_teachings");</script>
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("quality_teaching_materials");</script><br />
+<script type="text/javascript">Zoho.writeInput("quality_teaching_materials");</script>
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("teachings_most_useful");</script><br />
+<script type="text/javascript">Zoho.writeInput("teachings_most_useful");</script>
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("teachings_least_useful");</script><br />
+<script type="text/javascript">Zoho.writeInput("teachings_least_useful");</script>
+<br /><br /><br />
+
+***** <span id="subheader">SPECIFIC TEACHER FEEDBACK </span> ***** <br /><br />
+
+<script type="text/javascript">Zoho.writeLabel("overall_teacher");</script><br />
+<script type="text/javascript">Zoho.writeInput("overall_teacher");</script>
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("teacher_enhanced");</script><br />
+<script type="text/javascript">Zoho.writeInput("teacher_enhanced");</script>
+<br /><br />
+<script type="text/javascript">Zoho.writeLabel("teacher_improve");</script><br />
+<script type="text/javascript">Zoho.writeInput("teacher_improve");</script>
+<br /><br /><br />
+
+***** <span id="subheader">FINAL COMMENTS </span> ***** <br /><br />
+<script type="text/javascript">Zoho.writeLabel("final_comments");</script><br />
+<script type="text/javascript">Zoho.writeInput("final_comments");</script>
+
+<br /><br />
+<span id="subheader">Thank You!!</span>
+<br /><br />
+<script type="text/javascript">Zoho.writeSubmit("Submit");</script>
+<br />
+<script type="text/javascript">Zoho.writeReset("Reset");</script>
+</form>
+</body>
+</html>

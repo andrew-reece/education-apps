@@ -1,0 +1,88 @@
+*********************************************
+*											*
+*    DATA TABLES FOR STUDENT ATTENDANCE 	*
+*											*
+*********************************************
+
+** TABLE NAME: attend_month1 **
+
+student_id SMALLINT NOT NULL,
+PRIMARY KEY(student_id),
+c1am BOOL,
+c1pm BOOL,
+c2am BOOL,
+c2pm BOOL,
+c3am BOOL,
+c3pm BOOL,
+c4am BOOL,
+c4pm BOOL,
+c5am BOOL,
+c5pm BOOL,
+c6am BOOL,
+c6pm BOOL,
+c7am BOOL,
+c7pm BOOL,
+c8am BOOL,
+c8pm BOOL,
+c9am BOOL,
+c9pm BOOL,
+c10am BOOL,
+c10pm BOOL,
+c11am BOOL,
+c11pm BOOL,
+c12am BOOL,
+c12pm BOOL,
+c13am BOOL,
+c13pm BOOL,
+c14am BOOL,
+c14pm BOOL,
+c15am BOOL,
+c15pm BOOL,
+c16am BOOL,
+c16pm BOOL,
+c17am BOOL,
+c17pm BOOL,
+c18am BOOL,
+c18pm BOOL,
+c19am BOOL,
+c19pm BOOL,
+c20am BOOL,
+c20pm BOOL,
+c21am BOOL,
+c21pm BOOL,
+c22am BOOL,
+c22pm BOOL,
+c23am BOOL,
+c23pm BOOL,
+c24am BOOL,
+// NO PM CLASS LAST SATURDAY
+
+** TABLE NAME: attend_month2 **  // SAME FOR MONTH 3
+
+student_id SMALLINT NOT NULL,
+PRIMARY KEY(student_id),
+c1 BOOL,
+c2 BOOL,
+c3 BOOL,
+c4 BOOL,
+c5 BOOL,
+c6 BOOL,
+c7 BOOL,
+c8 BOOL,
+c9 BOOL,
+c10 BOOL,
+c11 BOOL,
+c12 BOOL
+
+** TABLE NAME: attend_month4 ** // SAME UP TO END KUNDALINI
+
+student_id SMALLINT NOT NULL,
+PRIMARY KEY(student_id),
+c1 BOOL,
+c2 BOOL,
+c3 BOOL,
+c4 BOOL,
+c5 BOOL,
+c6 BOOL,
+c7 BOOL,
+c8 BOOL

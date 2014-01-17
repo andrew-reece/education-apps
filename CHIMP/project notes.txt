@@ -1,0 +1,202 @@
+Participants in the Mindfulness training group, non Mindfulness training group, will also be asked the following questions: 1) On a scale ranging from 0 to 7, with 0 representing “Not at all” and 7 representing “Extremely,” how much more confident  do you feel compared to the start of the study? 2) On a scale ranging from 0 to 7, with 0 representing “Not at all” and 7 representing “Extremely,” how much did you enjoy the training?; Please briefly describe what you thought about the training (i.e., positive and negative features).
+
+
+TO-DO:
+
+**CRON**
+
+##set up daily cron to check whether anyone registered for a survey has exceeded their time limit: if so, cancel user and send out notice email
+
+##set up cron to check when new timepoints have begun, send out notice and adjust DB
+
+
+
+
+
+**REGISTRATION**
+
+##registration date limits for when you can sign up for each study (ie. can't sign up for pimindcre before 1/1/11 or after 1/30/2011)??
+
+##need to set DB field that changes when new timepoint begins, so that a new study shows up rather than the old 'finished!' message
+##this will probably be a CRON job
+
+##check to see if cookies actually cancel once someone closes their browser
+##THEY DO NOT -- how to fix??  what constitutes a session?  read up on this
+
+
+
+
+
+**QUESTIONNAIRES**
+
+
+##need to do factorial2.php entry for pimindcre
+##emotions, intelligence, creativity go first for the big pilot, and we can randomize that order
+##all the other surveys may be combined into fewer surveys by chiara, so we wait to do factorial entry until we know the final count
+
+
+
+
+
+
+
+
+**CLEANUP**
+
+##set permissions so that people can't go to look at folder directories where there is no index file (ie 'db', 'js', etc)
+
+##figure out how to get the submit button at the bottom of surveys to line up with the size of the survey table (which changes per survey)
+
+##check survey_elements field accuracy for picre and pimindcre once we know how many surveys for sure in each one (table: study_index)
+
+##Fix English on study description pages -- just picre and pimindcre now
+
+##Need to make sure ppl fill in everything on register2.php -- right now we don't check at all to see if they do.
+
+##Figure out how strict you want the password to be and set validation checks
+
+##Write "Help" pages
+##Put "Help" link in menubar
+
+##If div columns stylesheet on consent form looks bad in some browsers, use float instead of width/margin playing
+
+##Should we validate form input that isn't text-box?
+##error catching -- make sure that educational_position is selected on register.php, otherwise we won't have edinfo POST data
+##reform textbox validation program from agama
+## Catch errors for email links that have already been used
+
+
+
+**BIG PICTURE**
+
+##Order of operations:
+	Then, depending on what registered for, go to first stage of program
+		PiCom: Take the questionnaire --> Please wait 6 months --> Automatic email inviting to retest --> Retest --> Debriefing --> Finished  (is this true?  is there a follow up?)
+		PiCre: Take the questionnaire --> Debriefing --> Finished  (is this true?  is there a follow up?)
+		PiMindCre: Start with full range of questionnaires "use these objects to make something and send it to us" --> Upon receipt, send email asking to take  --> On finish, start training?  (Do we need to start everyone at the same time?  If so, how to do this?)
+			
+			
+********************************************************************			
+********************************************************************
+			
+			
+			
+COMPLETED:
+##Make registration 4 part process:
+	Enter username, password, email address, and which study you sign up for (Step 1 of 4)
+	Get confirmation email sent (Step 2 of 4)
+	Clicking confirmation link leads to Consent Form for specific study (3 of 4)
+	After Consent Form, demographic data (4 of 4)
+	Then, offer "Continue to begin experiment" or "Go back to home page" -- but home page now shows active experiments section
+	
+##Get login function working
+	Login should work from home page, also automatically login from final step of registration process
+	
+## AJAX check of username availability on register 1 of 3 page
+	
+##Should list studies which user is an active part of on home page or somewhere
+
+##IMPORTANT: Run a cookie check at the start of every 'access only' page, like study surveys, to make sure user is logged in
+
+##Put registration and current studies on index.php all in one column on the left
+
+##Logout option?
+
+##DBs for consent forms and info forms for each study
+
+## Spiff up look of Validation Email
+
+##Add picre and pimindcre consent info to study_consentforms DB
+
+##Also run a check to see if same email is attempting to register twice
+
+##Check availability AJAX for username registration
+
+##"Logout" option should only appear in menu bar if you are logged in
+
+##Set up 'forgot password' and 'pass_gen', all that stuff from agama db
+
+##Figure out why on index.php, AJAX display of current studies works fine, but if you refresh the page, it barfs on whether db/db_setup.php has "../" in front or not
+
+##Make 'Logout' appear in top navbar immediately upon login
+
+##Made 'current studies' and 'login details' box on index.php work in the same div -- successful login replaces one with the other
+
+##Add 'change password' function to home page
+
+##Upon final registration step, picom + pimindcre participants should be assigned to (picom: survey order) and (pimindcre: group + survey order)
+##This should be done sequentially -- maybe check what (id-1) had for each sequence # and just add one? (remember to loop back to 1 at end)
+
+##Check updated consent forms for corrections
+
+##pimindcre participants need to be assigned to either control or experimental groups before consent form shows up.
+
+##Should always check cookies so if a user tries to sign up for a study he is already in, system barfs
+
+##Remember that a user signing up for a second study really only has to complete the consent form -- all other data is already stored.  This should mean we have a simplified function that runs UPDATE rather than INSERT INTO for the db
+
+##Need to create data tables for NEO-PI-R, Thinking Style, Tolerance of Ambiguity, and Flexibility Q's for PICOM
+	Tables should have: UID, Timestamp, Avg Score, then a field for each question
+	Can we automate setting these tables up please??
+	
+##Populate survey_index table
+
+##remember to mark "4" for AMB and "999" for all other unanswered Qs
+
+##put notice immediately upon finishing registration: "You have xx minutes/days to complete this first part of the study.  Begin now?"
+
+##Set up index.php in /studies to route to the first survey according to the study and survey order assigned
+	Make sure there is a persistent variable re: survey order that saves state as ppl go through the surveys
+	
+##need to mark when a study has been completed by a user -- increment the '1' value under each study name in 'study_members' to 2?
+
+##how to pass info to load next form/quest. after 1 is completed?
+	1-enter info into DB
+	2-check if they want a break
+	3-go to next form or stop
+	
+##Get .txt files prepped to feed into program
+
+## FIX actual rendered survey page (no submit button, no colored lines)
+
+##Upon each quest. completion, store answers in DB, also calc avg and store in DB as well
+
+##working in printSurvey(), need to make the change of $direction on re-codes revert back to normal for the next iteration of while-loop.
+##do this by setting a temp variable for current direction on switch iterations, then at the end of the iteration, change it back to normal
+
+##what to do after last survey, after last timepoint?  Ask Chiara about end messages and feedback.
+
+##check re-code printSurvey() functionality on surveys that start going down
+
+##need to check and see if countdown function and results work
+
+##check on first step of registration whether user has already been disqualified from a study
+
+##once timepoint is complete, CHIMP home page 'Current Studies' link should go to 'You have finished for this timepoint'.  
+
+##countdown timer should start immediately upon loading page
+
+##should be notice on countdown page saying that if user leaves from this page without clicking 'continue', it won't be permitted and user will be disqualified from study
+
+##time stamp entered upon registration, so we know when the full testing period expires (24 for picom, 72 for pimindcre)
+
+##time stamp entered upon finishing each picom survey (except for the last one in each timepoint) so we know when 10 minute timer is up
+##this is set in survey_data table
+
+##need to set up temp_timestamp field in members_XX to compare against starting timestamp
+##for some reason, the timestamp at the DB seems to be about 7.5 minutes ahead of the timestamp that dreamhost gives, and this is hard to calculate
+##so to be precise, on getTimeRemaining() we will first set temp_timestamp, then fetch it and compare it against the starting timestamp
+
+##how to stop pressing back button after completing a survey and resubmitting?  maybe set "No-Cache" and reload?
+##we can set no-caching, but in the case that the browser overrides this, we also need to set it so that if a form is resubmitted, we catch it and disallow it.  if caught and a) user is on timer, b) user 
+
+##if ppl miss answers on a questionnaire, we need to do things.
+##if no answers are complete, we make a message that says "You did not fill in anything.  If you would like to go back and fill in, please click Go.  If you choose not to answer any questions in this survey, please understand that this will disqualify you from this study.  All participants must at least partially respond to each task in order to remain in the study.
+
+##highlight missed questions
+
+##figure out why if some but not all are missing, it highlights all questions
+
+##working on 'secondpass' variable in alljs.js -- DEC 03 2010
+
+##division by zero error...make sure ppl fill in forms~!  (but anyway, should probably catch this error anyway)

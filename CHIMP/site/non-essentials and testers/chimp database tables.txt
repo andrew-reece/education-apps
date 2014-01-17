@@ -1,0 +1,102 @@
+
+
+** TABLE NAME: participants **
+counter SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(counter),
+study VARCHAR(10),
+participant_id SMALLINT UNSIGNED NOT NULL,
+username VARCHAR(15),
+password VARCHAR(10),
+email VARCHAR(40),
+birthdate DATE,	** have to add in false day values
+gender TINYINT(5),
+race VARCHAR(12),
+hand TINYINT,
+artistic TINYINT,
+instruments TEXT,
+profession VARCHAR(40),
+ed_level TINYINT,
+discipline VARCHAR(15),
+highest_ed TINYINT
+
+
+** TABLE NAME: user_access **
+
+id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(id),
+username VARCHAR(15),
+password TEXT,
+access_level TINYINT(1) UNSIGNED,
+user_id SMALLINT UNSIGNED NOT NULL,
+firstname VARCHAR(15),
+surname VARCHAR(15),
+email VARCHAR(40)
+
+** TABLE NAME: activity_log **
+
+id MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(id),
+timestamp DATETIME,
+user VARCHAR(12),
+action VARCHAR(12),
+msg VARCHAR(255),
+urgency VARCHAR(15)
+
+** TABLE NAME: consent_forms **
+
+id TINYINT(2) UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(study_id),
+purpose TEXT,
+what_you_do TEXT,
+session_1 TEXT,
+session_2 TEXT,
+session_3 TEXT,
+session_4 TEXT,
+time_required TEXT,
+risks TEXT,
+benefits TEXT,
+confidentiality TEXT,
+participation TEXT,
+contact_researcher TEXT,
+contact_concerns TEXT,
+agreement TEXT
+
+***********
+* INDICES *
+***********
+
+** TABLE NAME: profession_index **
+
+profession_id TINYINT(4) UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(profession_id),
+profession_name VARCHAR(40)
+
+** TABLE NAME: disciplines_index **
+
+discipline_id TINYINT(2) UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(discipline_id),
+discipline_name VARCHAR(40)
+
+** TABLE NAME: month_index **
+
+month_id TINYINT(2) UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(month_id),
+month_name VARCHAR(20)
+
+** TABLE NAME: study_index **
+
+id TINYINT(2) UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(study_id),
+nickname VARCHAR(12),
+name VARCHAR(80),
+info TEXT
+
+** TABLE NAME: survey_index **
+
+id TINYINT(2) UNSIGNED NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(study_id),
+nickname VARCHAR(12),
+fullname VARCHAR(80),
+items TINYINT(3),
+choices TINYINT(1),
+choices_verbose TEXT

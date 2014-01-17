@@ -1,0 +1,103 @@
+<!--- -->
+<fusedoc fuse="FBX_Settings.cfm">
+	<responsibilities>
+		I set up the enviroment settings for this circuit. If this settings file is being inherited, then you can use CFSET to override a value set in a parent circuit or CFPARAM to accept a value set by a parent circuit
+	</responsibilities>	
+</fusedoc>
+--->
+<cfsetting enablecfoutputonly="yes">
+
+<!--- useful constants --->
+<cfparam name="self" default="index.cfm">
+<cfparam name="live" default=true>
+
+<!--- In case no fuseaction was given, I'll set up one to use by default. --->
+<cfparam name="attributes.action" default="admin.index">
+<cfset attributes.fuseaction = attributes.action>
+
+<cfif fusebox.IsHomeCircuit>
+	<cfapplication name="agamayoga" clientmanagement="Yes" setclientcookies="Yes" applicationtimeout="#createtimespan(1,0,0,0)#">
+	<cfset request.urltoken = client.urltoken>
+	<cfif NOT live>
+		<cfscript>
+		request.site.maindsn = "agamayoga";
+		request.site.domain = "www.agamayoga.com";
+		request.site.siteroot = "http://127.0.0.1/agamayoga/mailman";
+		request.site.sitepath = "/agamayoga";
+		request.site.filepath = "d:/work/Agama Yoga/www.agamayoga.com/mailman/files";
+		request.site.showerrors = true;
+		fusebox.suppresserrors = false;
+		</cfscript>
+	<cfelse>
+		<cfscript>
+		request.site.maindsn = "agamayoga";
+		request.site.domain = "www.agamayoga.com";
+		request.site.siteroot = "http://#request.site.domain#/mailman";
+		request.site.sitepath = "/home/httpd/vhosts/agamayoga.com/httpdocs/mailman";
+		request.site.filepath = "/home/httpd/vhosts/agamayoga.com/httpdocs/mailman/files";
+		request.site.showerrors = false;
+		fusebox.suppresserrors = false;
+		</cfscript>
+	</cfif>
+	<cfscript>
+	request.site.cfroot = "/agamayoga";
+	request.site.webroot = "#request.site.siteroot#";
+	request.site.imgroot = "#request.site.webroot#/imgs";
+	request.site.editroot = "#request.site.webroot#/ezedit";
+	request.site.templatePath = "#request.site.cfroot#/";
+	request.site.imgpath = "#request.site.sitepath#/imgs";
+	request.site.fileroot = "#request.site.cfroot#/files";
+	request.site.email = "info@agamayoga.com";
+	request.site.telephone = "+66 (0)9 9886535";
+	request.site.webmaster = "luke@phangan.info";
+	</cfscript>
+</cfif>
+
+<cfscript>
+// initialise page variables
+request.page.title = "AGAMA YOGA: MAILMAN ADMIN TOOLS";
+request.page.author = "Luke Bartholomew - luke@phangan.info";
+request.page.description = "DESCRIPTION HERE";
+request.page.abstract = "DESCRIPTION HERE";
+request.page.keywords = "KEYWORDS";
+request.page.classification = "Thailand,Suratthani,Koh Phangan,Yoga";
+request.page.stylesheet = "styles.css";
+request.page.bgcolour = "ffffff";
+request.page.preloadimages = "";
+// set locale
+SetLocale("English (UK)");
+</cfscript>
+
+<cfparam name="attributes.iduser" default="">
+<cfparam name="attributes.chrusername" default="">
+<cfparam name="attributes.chrpassword" default="">
+
+<cfparam name="attributes.idstudent" default="">
+<cfparam name="attributes.chrfirstname" default="">
+<cfparam name="attributes.chrsurname" default="">
+<cfparam name="attributes.chremail" default="">
+<cfparam name="attributes.dtdob" default="">
+<cfparam name="attributes.idcountry" default="">
+<cfparam name="attributes.chrcountry" default="">
+<cfparam name="attributes.idworkshop" default="">
+<cfparam name="attributes.chrworkshop" default="">
+<cfparam name="attributes.workshops" default="">
+<cfparam name="attributes.intagree" default=1>
+
+<cfparam name="attributes.intday" default="">
+<cfparam name="attributes.intmonth" default="">
+<cfparam name="attributes.intyear" default="">
+
+<cfparam name="attributes.sortby" default="s.chrfirstname">
+<cfparam name="attributes.error" default=0>
+<cfparam name="attributes.feedback" default=0>
+<cfparam name="attributes.confirm" default=0>
+
+<cfparam name="attributes.chrsubject" default="">
+<cfparam name="attributes.chrmessage" default="">
+<cfparam name="attributes.chrsignature" default="">
+
+<cfparam name="client.iduser" default=0>
+<cfparam name="client.message" default="">
+
+<cfsetting enablecfoutputonly="no">

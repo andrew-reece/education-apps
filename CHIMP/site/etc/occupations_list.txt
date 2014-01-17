@@ -1,0 +1,823 @@
+ Accountants and Auditors     
+ Actors     
+ Actuaries     
+ Administrative Law Judges, Adjudicators, and Hearing Officers     
+ Administrative Services Managers     
+ Adult Literacy, Remedial Education, and GED Teachers and Instructors     
+ Advertising Sales Agents     
+ Advertising and Promotions Managers     
+ Aerospace Engineering and Operations Technicians     
+ Aerospace Engineers     
+ Agents and Business Managers of Artists, Performers, and Athletes     
+ Agricultural Engineers     
+ Agricultural Equipment Operators     
+ Agricultural Inspectors     
+ Agricultural Sciences Teachers, Postsecondary     
+ Agricultural Workers, All Other     
+ Agricultural and Food Science Technicians     
+ Air Traffic Controllers     
+ Aircraft Cargo Handling Supervisors     
+ Aircraft Mechanics and Service Technicians     
+ Aircraft Structure, Surfaces, Rigging, and Systems Assemblers     
+ Airfield Operations Specialists     
+ Airline Pilots, Copilots, and Flight Engineers     
+ Ambulance Drivers and Attendants, Except Emergency Medical Technicians     
+ Amusement and Recreation Attendants     
+ Anesthesiologists     
+ Animal Breeders     
+ Animal Control Workers     
+ Animal Scientists     
+ Animal Trainers     
+ Anthropologists and Archeologists     
+ Anthropology and Archeology Teachers, Postsecondary     
+ Appraisers and Assessors of Real Estate     
+ Arbitrators, Mediators, and Conciliators     
+ Architects, Except Landscape and Naval     
+ Architectural and Civil Drafters     
+ Architecture Teachers, Postsecondary     
+ Architecture and Engineering Occupations     
+ Archivists     
+ Area, Ethnic, and Cultural Studies Teachers, Postsecondary     
+ Art Directors     
+ Art, Drama, and Music Teachers, Postsecondary     
+ Artists and Related Workers, All Other     
+ Arts, Design, Entertainment, Sports, and Media Occupations     
+ Assemblers and Fabricators, All Other     
+ Astronomers     
+ Athletes and Sports Competitors     
+ Athletic Trainers     
+ Atmospheric and Space Scientists     
+ Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary     
+ Audio and Video Equipment Technicians     
+ Audio Visual Collections Specialists     
+ Audiologists     
+ Automotive Body and Related Repairers     
+ Automotive Glass Installers and Repairers     
+ Automotive Service Technicians and Mechanics     
+Avionics Technicians
+ Baggage Porters and Bellhops     
+ Bailiffs     
+ Bakers     
+ Barbers     
+ Bartenders     
+ Bicycle Repairers     
+ Bill and Account Collectors     
+ Billing and Posting Clerks and Machine Operators     
+ Bindery Workers     
+ Biochemists and Biophysicists     
+ Biological Science Teachers, Postsecondary     
+ Biological Scientists, All Other     
+ Biological Technicians     
+ Biomedical Engineers     
+ Boilermakers     
+ Bookbinders     
+ Bookkeeping, Accounting, and Auditing Clerks     
+ Brickmasons and Blockmasons     
+ Bridge and Lock Tenders     
+ Broadcast News Analysts     
+ Broadcast Technicians     
+ Brokerage Clerks     
+ Budget Analysts     
+ Building Cleaning Workers, All Other     
+ Building and Grounds Cleaning and Maintenance Occupations     
+ Bus Drivers, School     
+ Bus Drivers, Transit and Intercity     
+ Bus and Truck Mechanics and Diesel Engine Specialists     
+ Business Operations Specialists, All Other     
+ Business Teachers, Postsecondary     
+ Business and Financial Operations Occupations     
+Butchers and Meat Cutters
+ Cabinetmakers and Bench Carpenters     
+ Camera Operators, Television, Video, and Motion Picture     
+ Camera and Photographic Equipment Repairers     
+ Captains, Mates, and Pilots of Water Vessels     
+ Cardiovascular Technologists and Technicians     
+ Cargo and Freight Agents     
+ Carpenters     
+ Carpet Installers     
+ Cartographers and Photogrammetrists     
+ Cashiers     
+ Cement Masons and Concrete Finishers     
+ Cementing and Gluing Machine Operators and Tenders     
+ Chefs and Head Cooks     
+ Chemical Engineers     
+ Chemical Equipment Operators and Tenders     
+ Chemical Plant and System Operators     
+ Chemical Technicians     
+ Chemistry Teachers, Postsecondary     
+ Chemists     
+ Chief Executives     
+ Child Care Workers     
+ Child, Family, and School Social Workers     
+ Chiropractors     
+ Choreographers     
+ Civil Engineering Technicians     
+ Civil Engineers     
+ Claims Adjusters, Examiners, and Investigators     
+ Cleaners of Vehicles and Equipment     
+ Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders     
+ Clergy     
+ Clinical, Counseling, and School Psychologists     
+ Coaches and Scouts     
+ Coating, Painting, and Spraying Machine Setters, Operators, and Tenders     
+ Coil Winders, Tapers, and Finishers     
+ Coin, Vending, and Amusement Machine Servicers and Repairers     
+ Combined Food Preparation and Serving Workers, Including Fast Food     
+ Commercial Divers     
+ Commercial Pilots     
+ Commercial and Industrial Designers     
+ Communications Equipment Operators, All Other     
+ Communications Teachers, Postsecondary     
+ Community and Social Service Specialists, All Other     
+ Community and Social Services Occupations     
+ Compensation and Benefits Managers     
+ Compensation, Benefits, and Job Analysis Specialists     
+ Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation     
+ Computer Hardware Engineers     
+ Computer Operators     
+ Computer Programmers     
+ Computer Science Teachers, Postsecondary     
+ Computer Software Engineers, Applications     
+ Computer Software Engineers, Systems Software     
+ Computer Specialists, All Other     
+ Computer Support Specialists     
+ Computer Systems Analysts     
+ Computer and Information Scientists, Research     
+ Computer and Information Systems Managers     
+ Computer and Mathematical Occupations     
+ Computer, Automated Teller, and Office Machine Repairers     
+ Computer Controlled Machine Tool Operators, Metal and Plastic     
+ Concierges     
+ Conservation Scientists     
+ Construction Laborers     
+ Construction Managers     
+ Construction and Building Inspectors     
+ Construction and Extraction Occupations     
+ Construction and Related Workers, All Other     
+ Continuous Mining Machine Operators     
+ Control and Valve Installers and Repairers, Except Mechanical Door     
+ Conveyor Operators and Tenders     
+ Cooks, All Other     
+ Cooks, Fast Food     
+ Cooks, Institution and Cafeteria     
+ Cooks, Private Household     
+ Cooks, Restaurant     
+ Cooks, Short Order     
+ Cooling and Freezing Equipment Operators and Tenders     
+ Correctional Officers and Jailers     
+ Correspondence Clerks     
+ Cost Estimators     
+ Costume Attendants     
+ Counselors, All Other     
+ Counter Attendants, Cafeteria, Food Concession, and Coffee Shop     
+ Counter and Rental Clerks     
+ Couriers and Messengers     
+ Court Reporters     
+ Court, Municipal, and License Clerks     
+ Craft Artists     
+ Crane and Tower Operators     
+ Credit Analysts     
+ Credit Authorizers, Checkers, and Clerks     
+ Criminal Justice and Law Enforcement Teachers, Postsecondary     
+ Crossing Guards     
+ Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders     
+ Curators     
+ Customer Service Representatives     
+ Cutters and Trimmers, Hand     
+ Cutting and Slicing Machine Setters, Operators, and Tenders     
+Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic
+ Dancers     
+ Data Entry Keyers     
+ Database Administrators     
+ Demonstrators and Product Promoters     
+ Dental Assistants     
+ Dental Hygienists     
+ Dental Laboratory Technicians     
+ Dentists, All Other Specialists     
+ Dentists, General     
+ Derrick Operators, Oil and Gas     
+ Designers, All Other     
+ Desktop Publishers     
+ Detectives and Criminal Investigators     
+ Diagnostic Medical Sonographers     
+ Dietetic Technicians     
+ Dietitians and Nutritionists     
+ Dining Room and Cafeteria Attendants and Bartender Helpers     
+ Directors, Religious Activities and Education     
+ Dishwashers     
+ Dispatchers, Except Police, Fire, and Ambulance     
+ Door to Door Sales Workers, News and Street Vendors, and Related Workers     
+ Drafters, All Other     
+ Dredge Operators     
+ Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic     
+ Driver/Sales Workers     
+Drywall and Ceiling Tile Installers
+ Earth Drillers, Except Oil and Gas     
+ Economics Teachers, Postsecondary     
+ Economists     
+ Editors     
+ Education Administrators, All Other     
+ Education Administrators, Elementary and Secondary School     
+ Education Administrators, Postsecondary     
+ Education Administrators, Preschool and Child Care Center/Program     
+ Education Teachers, Postsecondary     
+ Education, Training, and Library Occupations     
+ Education, Training, and Library Workers, All Other     
+ Educational, Vocational, and School Counselors     
+ Electric Motor, Power Tool, and Related Repairers     
+ Electrical Engineers     
+ Electrical Power Line Installers and Repairers     
+ Electrical and Electronic Engineering Technicians     
+ Electrical and Electronic Equipment Assemblers     
+ Electrical and Electronics Drafters     
+ Electrical and Electronics Installers and Repairers, Transportation Equipment     
+ Electrical and Electronics Repairers, Commercial and Industrial Equipment     
+ Electrical and Electronics Repairers, Powerhouse, Substation, and Relay     
+ Electricians     
+ Electro Mechanical Technicians     
+ Electromechanical Equipment Assemblers     
+ Electronic Equipment Installers and Repairers, Motor Vehicles     
+ Electronic Home Entertainment Equipment Installers and Repairers     
+ Electronics Engineers, Except Computer     
+ Elementary School Teachers, Except Special Education     
+ Elevator Installers and Repairers     
+ Eligibility Interviewers, Government Programs     
+ Embalmers     
+ Emergency Management Specialists     
+ Emergency Medical Technicians and Paramedics     
+ Employment, Recruitment, and Placement Specialists     
+ Engine and Other Machine Assemblers     
+ Engineering Managers     
+ Engineering Teachers, Postsecondary     
+ Engineering Technicians, Except Drafters, All Other     
+ Engineers, All Other     
+ English Language and Literature Teachers, Postsecondary     
+ Entertainers and Performers, Sports and Related Workers, All Other     
+ Entertainment Attendants and Related workers, All Other     
+ Environmental Engineering Technicians     
+ Environmental Engineers     
+ Environmental Science Teachers, Postsecondary     
+ Environmental Science and Protection Technicians, Including Health     
+ Environmental Scientists and Specialists, Including Health     
+ Epidemiologists     
+ Etchers and Engravers     
+ Excavating and Loading Machine and Dragline Operators     
+ Executive Secretaries and Administrative Assistants     
+ Explosives Workers, Ordnance Handling Experts, and Blasters     
+ Extraction Workers, All Other     
+ Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic     
+ Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers     
+Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders
+ Fabric Menders, Except Garment     
+ Fabric and Apparel Patternmakers     
+ Fallers     
+ Family and General Practitioners     
+ Farm Equipment Mechanics     
+ Farm Labor Contractors     
+ Farm and Home Management Advisors     
+ Farm, Ranch, and Other Agricultural Managers     
+ Farmers and Ranchers     
+ Farming, Fishing, and Forestry Occupations     
+ Farmworkers and Laborers, Crop, Nursery, and Greenhouse     
+ Farmworkers, Farm and Ranch Animals     
+ Fashion Designers     
+ Fence Erectors     
+ Fiberglass Laminators and Fabricators     
+ File Clerks     
+ Film and Video Editors     
+ Financial Analysts     
+ Financial Examiners     
+ Financial Managers     
+ Financial Specialists, All Other     
+ Fine Artists, Including Painters, Sculptors, and Illustrators     
+ Fire Fighters     
+ Fire Inspectors and Investigators     
+ First Line Supervisors/Managers of Construction Trades and Extraction Workers     
+ First Line Supervisors/Managers of Correctional Officers     
+ First Line Supervisors/Managers of Farming, Fishing, and Forestry Workers     
+ First Line Supervisors/Managers of Fire Fighting and Prevention Workers     
+ First Line Supervisors/Managers of Food Preparation and Serving Workers     
+ First Line Supervisors/Managers of Helpers, Laborers, and Material Movers, Hand     
+ First Line Supervisors/Managers of Housekeeping and Janitorial Workers     
+ First Line Supervisors/Managers of Landscaping, Lawn Service, and Groundskeeping Workers     
+ First Line Supervisors/Managers of Mechanics, Installers, and Repairers     
+ First Line Supervisors/Managers of Non Retail Sales Workers     
+ First Line Supervisors/Managers of Office and Administrative Support Workers     
+ First Line Supervisors/Managers of Personal Service Workers     
+ First Line Supervisors/Managers of Police and Detectives     
+ First Line Supervisors/Managers of Production and Operating Workers     
+ First Line Supervisors/Managers of Retail Sales Workers     
+ First Line Supervisors/Managers of Transportation and Material Moving Machine and Vehicle Operators     
+ First Line Supervisors/Managers, Protective Service Workers, All Other     
+ Fish and Game Wardens     
+ Fishers and Related Fishing Workers     
+ Fitness Trainers and Aerobics Instructors     
+ Flight Attendants     
+ Floor Layers, Except Carpet, Wood, and Hard Tiles     
+ Floor Sanders and Finishers     
+ Floral Designers     
+ Food Batchmakers     
+ Food Cooking Machine Operators and Tenders     
+ Food Preparation Workers     
+ Food Preparation and Serving Related Occupations     
+ Food Preparation and Serving Related Workers, All Other     
+ Food Scientists and Technologists     
+ Food Servers, Nonrestaurant     
+ Food Service Managers     
+ Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders     
+ Foreign Language and Literature Teachers, Postsecondary     
+ Forensic Science Technicians     
+ Forest Fire Inspectors and Prevention Specialists     
+ Forest and Conservation Technicians     
+ Forest and Conservation Workers     
+ Foresters     
+ Forestry and Conservation Science Teachers, Postsecondary     
+ Forging Machine Setters, Operators, and Tenders, Metal and Plastic     
+ Foundry Mold and Coremakers     
+ Funeral Attendants     
+ Funeral Directors     
+ Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders     
+Furniture Finishers
+ Gaming Cage Workers     
+ Gaming Change Persons and Booth Cashiers     
+ Gaming Dealers     
+ Gaming Managers     
+ Gaming Service Workers, All Other     
+ Gaming Supervisors     
+ Gaming Surveillance Officers and Gaming Investigators     
+ Gaming and Sports Book Writers and Runners     
+ Gas Compressor and Gas Pumping Station Operators     
+ Gas Plant Operators     
+ General and Operations Managers     
+ Geographers     
+ Geography Teachers, Postsecondary     
+ Geological and Petroleum Technicians     
+ Geoscientists, Except Hydrologists and Geographers     
+ Glaziers     
+ Graders and Sorters, Agricultural Products     
+ Graduate Teaching Assistants     
+ Graphic Designers     
+ Grinding and Polishing Workers, Hand     
+ Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic     
+Grounds Maintenance Workers, All Other
+ Hairdressers, Hairstylists, and Cosmetologists     
+ Hazardous Materials Removal Workers     
+ Health Diagnosing and Treating Practitioners, All Other     
+ Health Educators     
+ Health Specialties Teachers, Postsecondary     
+ Health Technologists and Technicians, All Other     
+ Health and Safety Engineers, Except Mining Safety Engineers and Inspectors     
+ Healthcare Practitioner and Technical Occupations     
+ Healthcare Practitioner and Technical Workers, All Other     
+ Healthcare Support Occupations     
+ Healthcare Support Workers, All Other     
+ Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic     
+ Heating, Air Conditioning, and Refrigeration Mechanics and Installers     
+ Helpers, Construction Trades, All Other     
+ Helpers—Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters     
+ Helpers—Carpenters     
+ Helpers—Electricians     
+ Helpers—Extraction Workers     
+ Helpers—Installation, Maintenance, and Repair Workers     
+ Helpers—Painters, Paperhangers, Plasterers, and Stucco Masons     
+ Helpers—Pipelayers, Plumbers, Pipefitters, and Steamfitters     
+ Helpers—Production Workers     
+ Helpers—Roofers     
+ Highway Maintenance Workers     
+ Historians     
+ History Teachers, Postsecondary     
+ Hoist and Winch Operators     
+ Home Appliance Repairers     
+ Home Economics Teachers, Postsecondary     
+ Home Health Aides     
+ Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop     
+ Hotel, Motel, and Resort Desk Clerks     
+ Human Resources Assistants, Except Payroll and Timekeeping     
+ Human Resources Managers, All Other     
+ Human Resources, Training, and Labor Relations Specialists, All Other     
+ Hunters and Trappers     
+Hydrologists
+ Industrial Engineering Technicians     
+ Industrial Engineers     
+ Industrial Machinery Mechanics     
+ Industrial Production Managers     
+ Industrial Truck and Tractor Operators     
+ Industrial Organizational Psychologists     
+ Information and Record Clerks, All Other     
+ Inspectors, Testers, Sorters, Samplers, and Weighers     
+ Installation, Maintenance, and Repair Occupations     
+ Installation, Maintenance, and Repair Workers, All Other     
+ Instructional Coordinators     
+ Insulation Workers, Floor, Ceiling, and Wall     
+ Insulation Workers, Mechanical     
+ Insurance Appraisers, Auto Damage     
+ Insurance Claims and Policy Processing Clerks     
+ Insurance Sales Agents     
+ Insurance Underwriters     
+ Interior Designers     
+ Internists, General     
+ Interpreters and Translators     
+Interviewers, Except Eligibility and Loan
+ Janitors and Cleaners, Except Maids and Housekeeping Cleaners     
+ Jewelers and Precious Stone and Metal Workers     
+ Job Printers     
+Judges, Magistrate Judges, and Magistrates
+Kindergarten Teachers, Except Special Education
+ Laborers and Freight, Stock, and Material Movers, Hand     
+ Landscape Architects     
+ Landscaping and Groundskeeping Workers     
+ Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic     
+ Laundry and Dry Cleaning Workers     
+ Law Clerks     
+ Law Teachers, Postsecondary     
+ Lawyers     
+ Lay Out Workers, Metal and Plastic     
+ Legal Occupations     
+ Legal Secretaries     
+ Legal Support Workers, All Other     
+ Legislators     
+ Librarians     
+ Library Assistants, Clerical     
+ Library Science Teachers, Postsecondary     
+ Library Technicians     
+ Licensed Practical and Licensed Vocational Nurses     
+ Life Scientists, All Other     
+ Life, Physical, and Social Science Occupations     
+ Life, Physical, and Social Science Technicians, All Other     
+ Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers     
+ Loading Machine Operators, Underground Mining     
+ Loan Counselors     
+ Loan Interviewers and Clerks     
+ Loan Officers     
+ Locker Room, Coatroom, and Dressing Room Attendants     
+ Locksmiths and Safe Repairers     
+ Locomotive Engineers     
+ Locomotive Firers     
+ Lodging Managers     
+ Log Graders and Scalers     
+ Logging Equipment Operators     
+ Logging Workers, All Other     
+Logisticians
+ Machine Feeders and Offbearers     
+ Machinists     
+ Maids and Housekeeping Cleaners     
+ Mail Clerks and Mail Machine Operators, Except Postal Service     
+ Maintenance Workers, Machinery     
+ Maintenance and Repair Workers, General     
+ Makeup Artists, Theatrical and Performance     
+ Management Analysts     
+ Management Occupations     
+ Managers, All Other     
+ Manicurists and Pedicurists     
+ Manufactured Building and Mobile Home Installers     
+ Marine Engineers and Naval Architects     
+ Market Research Analysts     
+ Marketing Managers     
+ Marriage and Family Therapists     
+ Massage Therapists     
+ Material Moving Workers, All Other     
+ Materials Engineers     
+ Materials Scientists     
+ Mathematical Science Occupations, All Other     
+ Mathematical Science Teachers, Postsecondary     
+ Mathematical Technicians     
+ Mathematicians     
+ Meat, Poultry, and Fish Cutters and Trimmers     
+ Mechanical Door Repairers     
+ Mechanical Drafters     
+ Mechanical Engineering Technicians     
+ Mechanical Engineers     
+ Media and Communication Equipment Workers, All Other     
+ Media and Communication Workers, All Other     
+ Medical Appliance Technicians     
+ Medical Assistants     
+ Medical Equipment Preparers     
+ Medical Equipment Repairers     
+ Medical Records and Health Information Technicians     
+ Medical Scientists, Except Epidemiologists     
+ Medical Secretaries     
+ Medical Transcriptionists     
+ Medical and Clinical Laboratory Technicians     
+ Medical and Clinical Laboratory Technologists     
+ Medical and Health Services Managers     
+ Medical and Public Health Social Workers     
+ Meeting and Convention Planners     
+ Mental Health Counselors     
+ Mental Health and Substance Abuse Social Workers     
+ Merchandise Displayers and Window Trimmers     
+ Metal Workers and Plastic Workers, All Other     
+ Metal Refining Furnace Operators and Tenders     
+ Meter Readers, Utilities     
+ Microbiologists     
+ Middle School Teachers, Except Special and Vocational Education     
+ Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic     
+ Millwrights     
+ Mine Cutting and Channeling Machine Operators     
+ Mining Machine Operators, All Other     
+ Mining and Geological Engineers, Including Mining Safety Engineers     
+ Mixing and Blending Machine Setters, Operators, and Tenders     
+ Mobile Heavy Equipment Mechanics, Except Engines     
+ Model Makers, Metal and Plastic     
+ Model Makers, Wood     
+ Models     
+ Molders, Shapers, and Casters, Except Metal and Plastic     
+ Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic     
+ Motion Picture Projectionists     
+ Motor Vehicle Operators, All Other     
+ Motorboat Mechanics     
+ Motorboat Operators     
+ Motorcycle Mechanics     
+ Multi Media Artists and Animators     
+ Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic     
+ Museum Technicians and Conservators     
+ Music Directors and Composers     
+ Musical Instrument Repairers and Tuners     
+Musicians and Singers
+ Natural Sciences Managers     
+ Network Systems and Data Communications Analysts     
+ Network and Computer Systems Administrators     
+ New Accounts Clerks     
+ Nonfarm Animal Caretakers     
+ Nuclear Engineers     
+ Nuclear Medicine Technologists     
+ Nuclear Power Reactor Operators     
+ Nuclear Technicians     
+ Numerical Tool and Process Control Programmers     
+ Nursing Aides, Orderlies, and Attendants     
+Nursing Instructors and Teachers, Postsecondary
+ Obstetricians and Gynecologists     
+ Occupational Health and Safety Specialists     
+ Occupational Health and Safety Technicians     
+ Occupational Therapist Aides     
+ Occupational Therapist Assistants     
+ Occupational Therapists     
+ Office Clerks, General     
+ Office Machine Operators, Except Computer     
+ Office and Administrative Support Occupations     
+ Office and Administrative Support Workers, All Other     
+ Operating Engineers and Other Construction Equipment Operators     
+ Operations Research Analysts     
+ Ophthalmic Laboratory Technicians     
+ Opticians, Dispensing     
+ Optometrists     
+ Oral and Maxillofacial Surgeons     
+ Order Clerks     
+ Orthodontists     
+ Orthotists and Prosthetists     
+Outdoor Power Equipment and Other Small Engine Mechanics
+ Packaging and Filling Machine Operators and Tenders     
+ Packers and Packagers, Hand     
+ Painters, Construction and Maintenance     
+ Painters, Transportation Equipment     
+ Painting, Coating, and Decorating Workers     
+ Paper Goods Machine Setters, Operators, and Tenders     
+ Paperhangers     
+ Paralegals and Legal Assistants     
+ Parking Enforcement Workers     
+ Parking Lot Attendants     
+ Parts Salespersons     
+ Patternmakers, Metal and Plastic     
+ Patternmakers, Wood     
+ Paving, Surfacing, and Tamping Equipment Operators     
+ Payroll and Timekeeping Clerks     
+ Pediatricians, General     
+ Personal Care and Service Occupations     
+ Personal Care and Service Workers, All Other     
+ Personal Financial Advisors     
+ Personal and Home Care Aides     
+ Pest Control Workers     
+ Pesticide Handlers, Sprayers, and Applicators, Vegetation     
+ Petroleum Engineers     
+ Petroleum Pump System Operators, Refinery Operators, and Gaugers     
+ Pharmacists     
+ Pharmacy Aides     
+ Pharmacy Technicians     
+ Philosophy and Religion Teachers, Postsecondary     
+ Photographers     
+ Photographic Process Workers     
+ Photographic Processing Machine Operators     
+ Physical Scientists, All Other     
+ Physical Therapist Aides     
+ Physical Therapist Assistants     
+ Physical Therapists     
+ Physician Assistants     
+ Physicians and Surgeons, All Other     
+ Physicists     
+ Physics Teachers, Postsecondary     
+ Pile Driver Operators     
+ Pipelayers     
+ Plant and System Operators, All Other     
+ Plasterers and Stucco Masons     
+ Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic     
+ Plumbers, Pipefitters, and Steamfitters     
+ Podiatrists     
+ Police and Sheriff's Patrol Officers     
+ Police, Fire, and Ambulance Dispatchers     
+ Political Science Teachers, Postsecondary     
+ Political Scientists     
+ Postal Service Clerks     
+ Postal Service Mail Carriers     
+ Postal Service Mail Sorters, Processors, and Processing Machine Operators     
+ Postmasters and Mail Superintendents     
+ Postsecondary Teachers, All Other     
+ Pourers and Casters, Metal     
+ Power Distributors and Dispatchers     
+ Power Plant Operators     
+ Precision Instrument and Equipment Repairers, All Other     
+ Prepress Technicians and Workers     
+ Preschool Teachers, Except Special Education     
+ Pressers, Textile, Garment, and Related Materials     
+ Printing Machine Operators     
+ Private Detectives and Investigators     
+ Probation Officers and Correctional Treatment Specialists     
+ Procurement Clerks     
+ Producers and Directors     
+ Production Occupations     
+ Production Workers, All Other     
+ Production, Planning, and Expediting Clerks     
+ Proofreaders and Copy Markers     
+ Property, Real Estate, and Community Association Managers     
+ Prosthodontists     
+ Protective Service Occupations     
+ Protective Service Workers, All Other     
+ Psychiatric Aides     
+ Psychiatric Technicians     
+ Psychiatrists     
+ Psychologists, All Other     
+ Psychology Teachers, Postsecondary     
+ Public Address System and Other Announcers     
+ Public Relations Managers     
+ Public Relations Specialists     
+ Pump Operators, Except Wellhead Pumpers     
+ Purchasing Agents and Buyers, Farm Products     
+ Purchasing Agents, Except Wholesale, Retail, and Farm Products     
+Purchasing Managers
+ Radiation Therapists     
+ Radio Mechanics     
+ Radio Operators     
+ Radio and Television Announcers     
+ Radiologic Technologists and Technicians     
+ Rail Car Repairers     
+ Rail Transportation Workers, All Other     
+ Rail Yard Engineers, Dinkey Operators, and Hostlers     
+ Rail Track Laying and Maintenance Equipment Operators     
+ Railroad Brake, Signal, and Switch Operators     
+ Railroad Conductors and Yardmasters     
+ Real Estate Brokers     
+ Real Estate Sales Agents     
+ Receptionists and Information Clerks     
+ Recreation Workers     
+ Recreation and Fitness Studies Teachers, Postsecondary     
+ Recreational Therapists     
+ Recreational Vehicle Service Technicians     
+ Refractory Materials Repairers, Except Brickmasons     
+ Refuse and Recyclable Material Collectors     
+ Registered Nurses     
+ Rehabilitation Counselors     
+ Reinforcing Iron and Rebar Workers     
+ Religious Workers, All Other     
+ Reporters and Correspondents     
+ Reservation and Transportation Ticket Agents and Travel Clerks     
+ Residential Advisors     
+ Respiratory Therapists     
+ Respiratory Therapy Technicians     
+ Retail Salespersons     
+ Riggers     
+ Rock Splitters, Quarry     
+ Rolling Machine Setters, Operators, and Tenders, Metal and Plastic     
+ Roof Bolters, Mining     
+ Roofers     
+ Rotary Drill Operators, Oil and Gas     
+Roustabouts, Oil and Gas
+ Sailors and Marine Oilers     
+ Sales Engineers     
+ Sales Managers     
+ Sales Representatives, Services, All Other     
+ Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products     
+ Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products     
+ Sales and Related Occupations     
+ Sales and Related Workers, All Other     
+ Sawing Machine Setters, Operators, and Tenders, Wood     
+ Secondary School Teachers, Except Special and Vocational Education     
+ Secretaries, Except Legal, Medical, and Executive     
+ Securities, Commodities, and Financial Services Sales Agents     
+ Security Guards     
+ Security and Fire Alarm Systems Installers     
+ Segmental Pavers     
+ Self Enrichment Education Teachers     
+ Semiconductor Processors     
+ Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders     
+ Septic Tank Servicers and Sewer Pipe Cleaners     
+ Service Station Attendants     
+ Service Unit Operators, Oil, Gas, and Mining     
+ Set and Exhibit Designers     
+ Sewers, Hand     
+ Sewing Machine Operators     
+ Shampooers     
+ Sheet Metal Workers     
+ Ship Engineers     
+ Shipping, Receiving, and Traffic Clerks     
+ Shoe Machine Operators and Tenders     
+ Shoe and Leather Workers and Repairers     
+ Shuttle Car Operators     
+ Signal and Track Switch Repairers     
+ Skin Care Specialists     
+ Slaughterers and Meat Packers     
+ Slot Key Persons     
+ Social Science Research Assistants     
+ Social Sciences Teachers, Postsecondary, All Other     
+ Social Scientists and Related Workers, All Other     
+ Social Work Teachers, Postsecondary     
+ Social Workers, All Other     
+ Social and Community Service Managers     
+ Social and Human Service Assistants     
+ Sociologists     
+ Sociology Teachers, Postsecondary     
+ Soil and Plant Scientists     
+ Sound Engineering Technicians     
+ Special Education Teachers, Middle School     
+ Special Education Teachers, Preschool, Kindergarten, and Elementary School     
+ Special Education Teachers, Secondary School     
+ Speech Language Pathologists     
+ Stationary Engineers and Boiler Operators     
+ Statistical Assistants     
+ Statisticians     
+ Stock Clerks and Order Fillers     
+ Stonemasons     
+ Structural Iron and Steel Workers     
+ Structural Metal Fabricators and Fitters     
+ Substance Abuse and Behavioral Disorder Counselors     
+ Subway and Streetcar Operators     
+ Surgeons     
+ Surgical Technologists     
+ Survey Researchers     
+ Surveying and Mapping Technicians     
+ Surveyors     
+Switchboard Operators, Including Answering Service
+ Tailors, Dressmakers, and Custom Sewers     
+ Tank Car, Truck, and Ship Loaders     
+ Tapers     
+ Tax Examiners, Collectors, and Revenue Agents     
+ Tax Preparers     
+ Taxi Drivers and Chauffeurs     
+ Teacher Assistants     
+ Teachers and Instructors, All Other     
+ Team Assemblers     
+ Technical Writers     
+ Telecommunications Equipment Installers and Repairers, Except Line Installers     
+ Telecommunications Line Installers and Repairers     
+ Telemarketers     
+ Telephone Operators     
+ Tellers     
+ Terrazzo Workers and Finishers     
+ Textile Bleaching and Dyeing Machine Operators and Tenders     
+ Textile Cutting Machine Setters, Operators, and Tenders     
+ Textile Knitting and Weaving Machine Setters, Operators, and Tenders     
+ Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders     
+ Textile, Apparel, and Furnishings Workers, All Other     
+ Therapists, All Other     
+ Tile and Marble Setters     
+ Timing Device Assemblers, Adjusters, and Calibrators     
+ Tire Builders     
+ Tire Repairers and Changers     
+ Title Examiners, Abstractors, and Searchers     
+ Tool Grinders, Filers, and Sharpeners     
+ Tool and Die Makers     
+ Tour Guides and Escorts     
+ Traffic Technicians     
+ Training and Development Managers     
+ Training and Development Specialists     
+ Transit and Railroad Police     
+ Transportation Attendants, Except Flight Attendants and Baggage Porters     
+ Transportation Inspectors     
+ Transportation Workers, All Other     
+ Transportation and Material Moving Occupations     
+ Transportation, Storage, and Distribution Managers     
+ Travel Agents     
+ Travel Guides     
+ Tree Trimmers and Pruners     
+ Truck Drivers, Heavy and Tractor Trailer     
+Truck Drivers, Light or Delivery Services
+ Umpires, Referees, and Other Sports Officials     
+ Upholsterers     
+ Urban and Regional Planners     
+Ushers, Lobby Attendants, and Ticket Takers
+ Veterinarians     
+ Veterinary Assistants and Laboratory Animal Caretakers     
+ Veterinary Technologists and Technicians     
+ Vocational Education Teachers, Middle School     
+ Vocational Education Teachers, Postsecondary     
+Vocational Education Teachers, Secondary School
+ Waiters and Waitresses     
+ Watch Repairers     
+ Water and Liquid Waste Treatment Plant and System Operators     
+ Weighers, Measurers, Checkers, and Samplers, Recordkeeping     
+ Welders, Cutters, Solderers, and Brazers     
+ Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders     
+ Wellhead Pumpers     
+ Wholesale and Retail Buyers, Except Farm Products     
+ Woodworkers, All Other     
+ Woodworking Machine Setters, Operators, and Tenders, Except Sawing     
+ Word Processors and Typists     
+Writers and Authors
+Zoologists and Wildlife Biologists
