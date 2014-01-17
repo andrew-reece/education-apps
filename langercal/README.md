@@ -1,6 +1,4 @@
 <h2>Reminder/Organizer App for Langer Lab researchers (2012)</h2>
-<br />
-
 Git repository for the Organizer App I created for student researchers in Harvard's Langer Lab in 2012.
 <br />
 Scrapes calendar data from Google Calendar for lab activities, sends email reminders to researchers
