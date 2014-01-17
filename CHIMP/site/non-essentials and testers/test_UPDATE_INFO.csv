@@ -1,4 +1,0 @@
-UPDATE,INFO,,,,,,,
-students_basic-firstname,students_basic-surname,students_basic-email,students_basic-gender,students_basic-country_id,students_birthinfo-birth_date,students_astrological-sunsign,students_currentstatus-current_month,students_currentstatus-current_branch
-FIRST NAME,SURNAME,EMAIL,GENDER,NATIONALITY,BIRTH DATE [yyyy-mm-dd],ZODIAC SUN SIGN,CURRENT MONTH,CURRENT BRANCH
-skipper,mccoy,skipster@yahoo.co.uk,male,235,1979-6-05,gemini,2,1

@@ -1,0 +1,86 @@
+
+contents:
+	date/day (today, tomorrow, )
+	time (now, 545 (ask am or pm if before 8), 
+			tonight, tonite, late[ ]night, [this][ ]afternoon, [this][ ]morning)
+	pset ([#][ABC], pset[ ]#[ABC], problem[ ]set[ ]#[ABC])
+	
+	
+to-do (in order of priority):
+
+##
+
+the main thing to work on when you get back is sorting out the 30 min before/after feature
+there are a few things going wrong right now:
+
+first, 
+consider that exact matches may also be 30 min before/after other time requests.
+in this case, the exact matchers should only get exact match emails, and not early/late emails
+right now, they get them all
+
+second, 
+i'm not sure there's a way to do this with the current setup, but it would really be
+best if you run the exact match emails first, and keep track of who gets sent mail
+then, run the before/after emails, but exclude all email addresses that already got exact mail
+you may want to assign unique IDs in the spreadsheet rows along with email addresses, just in
+case one person enters multiple times (in fact, you need to do this unless you erase rows after
+they've gotten an email, which isn't as good an idea)
+
+third,
+users can, in theory, receive both before and after emails, as long as they don't have an exact
+match.  so once the exact emails go out, non-exact-matched users can receive up to two emails.
+you don't really need to keep track of whether they've gotten a before/after, because there
+shouldn't be a condition under which they'd receive more than one before (or after) email.
+
+fourth, 
+if possible, include a link (or at least instructions to reply-to) in early/late emails
+so that students, if they see a nearby time they can make, can make a new entry in the 
+spreadsheet and be matched.  they probably can't activate the script directly, so we'll have
+to make it an email that gets scanned just like all the other ones.  (alternately they can use 
+the web form...maybe that's what we give them a link to.)
+
+
+
+
+##
+- check 30 min before and after requested time, and make a suggestion to people 
+if there's not an exact match for their desired time, but there's one nearby.
+
+	give them a link to click if they agree to shift back or forth 30 min, which automatically enters
+	a new row in the spreadsheet and links them up
+	if so, delete the initial row they'd been registered under
+##
+- figure out how to send full messages to SMS people
+##
+- also, send SMS email addresses and phone numbers, since no 'cc:'
+- or, ask SMSers to provide email address
+- or, when letting them know there's a match, ask for their email and then coordinate that way
+##
+- have the check function run on every new row addition
+##
+- have email function run every 15 min
+##
+- include an option to just enter 'morning/afternoon/evening/late[night]'
+- morning constitutes anytime 7a - 12p
+- afternoon: 12p - 5pm
+- evening: 5p - 11p
+- latenight: 11p - 4a
+##
+- if 'now' written for time, look up to an hour forward for matches
+
+*******************************************
+*******************************************
+
+DONE
+ integrate with spreadsheet of available rooms in different buildings, report avail. rooms in email
+- send text or email to email address
+- time: 545 pm, 545pm, 5:45[ ]pm, 17:00
+- date/day: wed, wednesday
+- check timestamp of previous entry, only look at emails from that point on
+##
+- rounding minutes to nearest 30?
+##
+- if today or tomorrow is included, then ignore date and just compute today/tomorrow from Date()
+##
+- if only 'wed' or 'wednesday', find that day of the week within the next week, and use that
+##

@@ -1,0 +1,42 @@
+<html>
+   	<head>
+    <title>Langer Lab - Calendar Reminder App</title>
+	  	<script type='text/javascript' src='ajax.js'></script>
+  	</head>
+
+<body align="center">
+<br /><br /><br /><br />
+  <h2>Welcome to the Langer Lab Calendar Reminder app! </h2>
+
+  <div style="width:400px; margin-left:auto; margin-right:auto;">
+  This is a simple program that lets you send an email to yourself, 
+  with a list of all the upcoming timeslots you're signed up for. 
+  <br /><br />
+ 	 All this is on GCal too - this just sends email reminders.
+
+ 	<br /><br />
+  <b>Instructions: </b>
+  <br />
+  		For an email reminder of the timeslots you're signed up for, 
+  		choose your name from the dropdown box and click send. 
+  </div>
+  <br /><br />
+  <div align="center">
+  
+	  <select id='who'>
+	  	<option value="JG">Joyce Gorman</option>
+	  	<option value="AR">Andrew Reece</option>
+	  	<option value="CB">Colin Bosma</option>
+	  	<option value="MDK">Michelle Dow</option>
+	  	<option value="DR">Dharmishta Rood</option>
+	  	<option value="ALL">Send to All</option>	
+	  </select>
+  
+		<input type='button' id='sendmail' value='Send' onclick='ajaxmailer();'> 
+  		<br />
+  		<div id='mailconfirm' style='color:red; display:inline'></div>
+  </div>
+  <br /><br />
+  <div id='mytimeslots'></div>
+  </body>
+</html> 
