@@ -4,7 +4,7 @@
 <br />
 Applications to improve student-faculty workflow, administrative
 efficiency.  
-<br /><br />
+<br />
 <b><u>Projects</u></b>
 <ul>
 	<li>
