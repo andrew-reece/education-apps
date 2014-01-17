@@ -23,7 +23,7 @@ efficiency.
 	</li>
 
 	<li>
-		<a href="https://github.com/dharmahound/datascience/tree/master/governor-races">Lab Calendar scheduler/emailer/a>
+		<a href="https://github.com/dharmahound/datascience/tree/master/governor-races">Lab Calendar scheduler/emailer</a> 
 		- Simple PHP/AJAX app that scrapes calendar data from Google Calendar for lab activities, sends email reminders to researchers
 	</li>
 </ul>
