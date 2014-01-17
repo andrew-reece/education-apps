@@ -12,12 +12,12 @@ for Psych 2500 (Proseminar in Social Psychology).  Every week we had a different
 class, and students submitted weekly papers to each respective prof.  Student-faculty workflow
 then consisted of the following steps:
 <br />
-1) Students write papers
-2) Papers are uploaded to course shared drive
-3) TF collects papers, emails to faculty
-4) Faculty read & grade papers, then send back to TF
-5) TF records grades in student spreadsheets
-6) TF emails papers back to students
+1) Students write papers<br />
+2) Papers are uploaded to course shared drive<br />
+3) TF collects papers, emails to faculty<br />
+4) Faculty read & grade papers, then send back to TF<br />
+5) TF records grades in student spreadsheets<br />
+6) TF emails papers back to students<br />
 <br />
 The majority of these steps requires repetitive tasks on the part of the TF (eg. emailing,
 entering grades in spreadsheets, etc).  There's no reason these can't be automated!  So I convinced
@@ -35,8 +35,8 @@ at a specified time each week:
 - uploads graded papers to secure location on shared drive
 - sends students links to their graded papers
 <br />
-The script also contains functions for similar workflow models for exams, which occurred three 
-times over the course of the semester.
+
+The script also contains functions for similar workflow models for exams, which occurred 3x over the course of the semester.
 <br />
 I estimate that even including development time (30-40 hours), this script saved me at least
 30 hours of work over the semester, not to mention freeing up my Sunday evenings!  Furthermore,
