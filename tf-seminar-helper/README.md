@@ -1,4 +1,4 @@
-<h2>Teaching Staff Workflow App for Harvard faculty/teaching fellows (2013)</h2>
+<h2>Workflow App for Harvard faculty/teaching fellows (2013)</h2>
 
 Git repository for the Teaching Workflow App for teaching staff in seminar-style courses.
 
