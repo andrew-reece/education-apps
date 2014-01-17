@@ -2,14 +2,18 @@
 
 <u><b>Background</b></u>
 <br />
-In my spare time I've made a few applications to improve student-faculty workflow and administrative
-efficiency in the Harvard course system.  
+Applications to improve student-faculty workflow and administrative
+efficiency in the Harvard University course system.  
 <br /><br />
 <b><u>Projects</u></b>
 <ul>
 <li>
-	<a href="https://github.com/dharmahound/datascience/tree/master/barbaric-yelp">Barbaric Yelp</a>
-	- Created simple collaborative filtering recommendation system a la Yelp
+	<a href="https://github.com/dharmahound/datascience/tree/master/barbaric-yelp">Problem Set Helper</a>
+	- This app lets students text or email their availability to a central server, which uses
+Google Apps suite to keep track of dates/times/psets.  Whenever the app detects a matching 
+study time between 2+ students, it sends all parties an email notifying them that there's someone
+else who wants to work on the same pset at the same time as them.  That way students can find
+each other to work together.
 </li>
 
 <li>
